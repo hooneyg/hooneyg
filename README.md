@@ -1,4 +1,7 @@
-<h1> Hi, I'm Hooney 👋 Welcome to my Universe </h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Hooney's%20GitHub&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Hi%2C+there+%F0%9F%91%8B+Welcome!)](https://git.io/typing-svg)
+
 
 <br />
 <h2> My tech stack 🔧 </h2>
