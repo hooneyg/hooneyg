@@ -1,4 +1,4 @@
-<h1> Hi, I'm Hoonney 👋 Welcome to my Universe </h1>
+<h1> Hi, I'm Hooney 👋 Welcome to my Universe </h1>
 
 <br />
 <h2> My tech stack 🔧 </h2>
