@@ -5,10 +5,10 @@
 
 <!-- Typing SVG Header -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=?덈뀞?섏꽭??+?꾨찓??濡쒖쭅+留덉뒪??怨쎄꼍?덉엯?덈떎;AI+FullStack+Developer;Enterprise+Solution+Architect;The+6+Master+Labs+Director" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=안녕하세요!+도메인+로직+마스터+곽경훈입니다;AI+FullStack+Developer;Enterprise+Solution+Architect;The+6+Master+Labs+Director" alt="Typing SVG" />
 </h1>
 
-## ?썱截?Tech Stack(湲곗닠 ?ㅽ깮)
+## 🛠️ Tech Stack(기술 스택)
 
 <!-- Languages -->
 <p>
@@ -66,49 +66,49 @@
 
 ---
 
-## ?뫅?랅윊?About Me (?뚭컻)
-蹂듭옟??鍮꾩쫰?덉뒪 臾몄젣瑜?寃ш퀬??**Architecture**? **Data Logic**?쇰줈 ?닿껐?섎뒗 **AI FullStack Developer**?낅땲?? ?뷀꽣?꾨씪?댁쫰 ?섍꼍?먯꽌???洹쒕え ?명봽???ㅺ퀎遺???ㅼ떆媛??곗씠???ㅽ듃由щ컢, 洹몃━怨?怨좊룄??蹂댁븞 泥닿퀎 援ъ텞源뚯? ??怨쇱젙??寃쏀뿕?댁솕?듬땲??
+## 👨‍💻 About Me (소개)
+복잡한 비즈니스 문제를 견고한 **Architecture**와 **Data Logic**으로 해결하는 **AI FullStack Developer**입니다. 엔터프라이즈 환경에서의 대규모 인프라 설계부터 실시간 데이터 스트리밍, 그리고 고도의 보안 체계 구축까지 전 과정을 경험해왔습니다.
 
-- ?룛截?**Architectural Excellence**: ?꾨찓??濡쒖쭅??理쒖쟻?붾맂 ?명봽??諛??곗씠???꾪궎?띿쿂瑜??ㅺ퀎?⑸땲??
-- ?쨼 **AI-Driven Innovation**: RAG 諛?LLM 湲곗닠???ㅼ젣 鍮꾩쫰?덉뒪 媛移섎줈 ?꾪솚?섎뒗 ?곌뎄瑜??섑뻾?⑸땲??
-- ?뾼截?**Database Mastery**: Oracle, MySQL, PostgreSQL ??RDBMS? Redis???깅뒫??洹뱁븳?쇰줈 ?뚯뼱?щ┰?덈떎.
+- 🏗️ **Architectural Excellence**: 도메인 로직에 최적화된 인프라 및 데이터 아키텍처를 설계합니다.
+- 🤖 **AI-Driven Innovation**: RAG 및 LLM 기술을 실제 비즈니스 가치로 전환하는 연구를 수행합니다.
+- 🗄️ **Database Mastery**: Oracle, MySQL, PostgreSQL 등 RDBMS와 Redis의 성능을 극한으로 끌어올립니다.
 
 ---
 
-## ?? The 6 Master Labs (?듭떖 ?곌뎄??
-> 媛?遺꾩빞???꾨Ц?깆쓣 源딆씠 ?덇쾶 ?곌뎄?섍퀬 湲곕줉?섎뒗 6媛쒖쓽 ?듭떖 留덉뒪???⑹엯?덈떎.
+## 🚀 The 6 Master Labs (핵심 연구소)
+> 각 분야의 전문성을 깊이 있게 연구하고 기록하는 6개의 핵심 마스터 랩입니다.
 
 | Lab | Focus Area | Technology |
 | :--- | :--- | :--- |
-| ?룛截?[**infra-master-lab**](https://github.com/hooneyg/infra-master-lab) | Infra & Automation | `Docker`, `K8S`, `Ansible`, `IaC` |
-| ?뱻 [**realtime-comm-lab**](https://github.com/hooneyg/realtime-comm-lab) | Real-time Sync | `WebRTC`, `WebSocket`, `Socket.io` |
-| ?뙄 [**event-streaming-lab**](https://github.com/hooneyg/event-streaming-lab) | Distributed Processing | `Kafka`, `EDA`, `Saga Pattern` |
-| ?뾼截?[**database-master-lab**](https://github.com/hooneyg/database-master-lab) | DB Optimization | `RDBMS`, `Redis`, `Query Tuning` |
-| ?쭬 [**ai-agent-brain-lab**](https://github.com/hooneyg/ai-agent-brain-lab) | AI & RAG | `RAG`, `LLM`, `Vector DB` |
-| ?뵍 [**security-auth-core**](https://github.com/hooneyg/security-auth-core) | Security & Auth | `JWT`, `OAuth2`, `ISMS-P` |
+| 🏗️ [**infra-master-lab**](https://github.com/hooneyg/infra-master-lab) | Infra & Automation | `Docker`, `K8S`, `Ansible`, `IaC` |
+| 📡 [**realtime-comm-lab**](https://github.com/hooneyg/realtime-comm-lab) | Real-time Sync | `WebRTC`, `WebSocket`, `Socket.io` |
+| 🌊 [**event-streaming-lab**](https://github.com/hooneyg/event-streaming-lab) | Distributed Processing | `Kafka`, `EDA`, `Saga Pattern` |
+| 🗄️ [**database-master-lab**](https://github.com/hooneyg/database-master-lab) | DB Optimization | `RDBMS`, `Redis`, `Query Tuning` |
+| 🧠 [**ai-agent-brain-lab**](https://github.com/hooneyg/ai-agent-brain-lab) | AI & RAG | `RAG`, `LLM`, `Vector DB` |
+| 🔐 [**security-auth-core**](https://github.com/hooneyg/security-auth-core) | Security & Auth | `JWT`, `OAuth2`, `ISMS-P` |
 
 ---
 
-## ?룇 Key Domain Expertise (?꾨찓???꾨Ц??
+## 🏆 Key Domain Expertise (도메인 전문성)
 
-### ?슋 Logistics & Supply Chain
-- **NGFF QMS / IMS**: LX ?먰넗??李⑥꽭? 臾쇰쪟 ?덉쭏 愿由??쒖뒪???꾪궎?띿쿂 由щ뵫.
-- Kafka 湲곕컲 EDA 援ъ텞 諛?SAP ERP ??⑸웾 ?곕룞.
+### 🚛 Logistics & Supply Chain
+- **NGFF QMS / IMS**: LX 판토스 차세대 물류 품질 관리 시스템 아키텍처 리딩.
+- Kafka 기반 EDA 구축 및 SAP ERP 대용량 연동.
 
-### ?룱 Finance & Public Sector
-- **?ㅼ떆媛??붿긽 ?붾（??*: 湲덉쑖媛먮룆???쒖? 蹂댁븞 以???ㅼ떆媛?誘쇱썝 ?곷떞 ?붾（??
-- ISMS-P 以???뷀샇???꾪궎?띿쿂 諛?臾댁넀???곗씠??留덉씠洹몃젅?댁뀡.
+### 🏦 Finance & Public Sector
+- **실시간 화상 솔루션**: 금융감독원 표준 보안 준수 실시간 민원 상담 솔루션.
+- ISMS-P 준수 암호화 아키텍처 및 무손실 데이터 마이그레이션.
 
 ---
 
-## ?릫 Contribution Snake
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/hooneyg/hooneyg/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
 
-## ?뱤 Stats & Hub
+## 📊 Stats & Hub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hooneyg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooneyg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
