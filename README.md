@@ -3,9 +3,9 @@
 <!-- Waving Header Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Hooney&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-<!-- Typing SVG Header -->
+<!-- Typing SVG Header - Simplified for stability -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=안녕하세요!+도메인+로직+마스터+곽경훈입니다;AI+FullStack+Developer;Enterprise+Solution+Architect;The+6+Master+Labs+Director" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=AI+FullStack+Developer;Enterprise+Solution+Architect;The+6+Master+Labs+Director" alt="Typing SVG" />
 </h1>
 
 ## 🛠️ Tech Stack(기술 스택)
@@ -101,17 +101,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hooneyg/hooneyg/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
 ## 📊 Stats & Hub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooneyg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooneyg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hooneyg&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooneyg&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
 </div>
 
 ---
