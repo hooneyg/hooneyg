@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- 타이틀 배너 -->
 <h1>
@@ -56,7 +56,7 @@ currently_studying:
 |---|---|---|
 | 🔬 [spring-clean-architecture-lab](https://github.com/hooneyg/spring-clean-architecture-lab) | Clean Architecture · MSA · JWT/MFA · ISMS-P · CI/CD | `Java` `Spring Boot 3` `Docker` `Kafka` |
 | ⚡ [next-enterprise-lab](https://github.com/hooneyg/next-enterprise-lab) | Next.js 14 App Router · RSC · Zustand · Performance | `Next.js` `TypeScript` `Zustand` |
-| 🧠 [my-ai-brain](https://github.com/hooneyg/my-ai-brain) | LLM · RAG Pipeline · PyTorch · AI Backend Integration | `Python` `PyTorch` `LangChain` `FastAPI` |
+| 🧠 [ai-ml-lab](https://github.com/hooneyg/ai-ml-lab) | LLM · RAG Pipeline · PyTorch · AI Backend Integration | `Python` `PyTorch` `LangChain` `FastAPI` |
 
 ---
 
@@ -71,15 +71,15 @@ currently_studying:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hooneyg&show_icons=true&theme=dark&bg_color=0a0a0c&border_color=10b981&icon_color=10b981&title_color=10b981&text_color=ffffff&hide_border=false"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooneyg&layout=compact&theme=dark&bg_color=0a0a0c&border_color=10b981&title_color=10b981&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hooneyg&show_icons=true&theme=dark&bg_color=0a0a0c&border_color=10b981&icon_color=10b981&title_color=10b981&text_color=ffffff&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooneyg&layout=compact&theme=dark&bg_color=0a0a0c&border_color=10b981&title_color=10b981&text_color=ffffff" />
 </div>
 
 ---
 
 ## 🌱 What I'm Working On
 
-- 📖 **LLM & RAG**: 실무 문서 기반 Q&A 시스템 설계 연구 (`my-ai-brain`)
+- 📖 **LLM & RAG**: 실무 문서 기반 Q&A 시스템 설계 연구 (`ai-ml-lab`)
 - 🏗 **Clean Architecture**: 엔터프라이즈 백엔드 아키텍처 패턴 정리 (`spring-clean-architecture-lab`)
 - 🌐 **Portfolio**: [hooneyg.github.io](https://hooneyg.github.io) — 실무 프로젝트 아키텍처 공개
 
@@ -87,10 +87,9 @@ currently_studying:
 
 <div align="center">
   <a href="mailto:admin@hooneyz.com">
-    <img src="https://img.shields.io/badge/Email-admin@hooneyz.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-admin@hooneyz.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hooneyg.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-hooneyg.github.io-10B981?style=for-the-badge&logo=github-pages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-hooneyg.github.io-10B981?style=for-the-badge&logo=github-pages&logoColor=white" />
   </a>
 </div>
-]]>
