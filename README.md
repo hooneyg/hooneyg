@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Header - Simplified for stability -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=AI+FullStack+Developer;Enterprise+Solution+Architect;The+6+Master+Labs+Director" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=AI+FullStack+Developer;Enterprise+Solution+Architect" alt="Typing SVG" />
 </h1>
 
 ## 🛠️ Tech Stack(기술 스택)
