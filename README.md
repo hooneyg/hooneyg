@@ -103,8 +103,8 @@
 
 ## 📊 Stats & Hub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooneyg&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooneyg&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hooneyg&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hooneyg&theme=tokyonight&hide_border=true&title_color=10B981&ring=10B981&sideNums=10B981&sideLabels=C9D1D9&currStreakLabel=10B981&statlet=C9D1D9" height="165" />
 </div>
 
 ---
