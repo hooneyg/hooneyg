@@ -81,11 +81,11 @@
 | Lab | Focus Area | Technology |
 | :--- | :--- | :--- |
 | 🏗️ [**infra-master-lab**](https://github.com/hooneyg/infra-master-lab) | Infra & Automation | `Docker`, `K8S`, `Ansible`, `IaC` |
-| 📡 [**realtime-comm-lab**](https://github.com/hooneyg/realtime-comm-lab) | Real-time Sync | `WebRTC`, `WebSocket`, `Socket.io` |
-| 🌊 [**event-streaming-lab**](https://github.com/hooneyg/event-streaming-lab) | Distributed Processing | `Kafka`, `EDA`, `Saga Pattern` |
 | 🗄️ [**database-master-lab**](https://github.com/hooneyg/database-master-lab) | DB Optimization | `RDBMS`, `Redis`, `Query Tuning` |
 | 🧠 [**ai-agent-brain-lab**](https://github.com/hooneyg/ai-agent-brain-lab) | AI & RAG | `RAG`, `LLM`, `Vector DB` |
 | 🔐 [**security-auth-core**](https://github.com/hooneyg/security-auth-core) | Security & Auth | `JWT`, `OAuth2`, `ISMS-P` |
+| 📡 [**realtime-comm-lab**](https://github.com/hooneyg/realtime-comm-lab) | Real-time Sync | `WebRTC`, `WebSocket`, `Socket.io` |
+| 🌊 [**event-streaming-lab**](https://github.com/hooneyg/event-streaming-lab) | Distributed Processing | `Kafka`, `EDA`, `Saga Pattern` |
 
 ---
 
